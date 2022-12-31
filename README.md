@@ -11,6 +11,8 @@ It is an action-adventure and side-scrolling game with one-level and roguelike g
 
 kill all enemies and defeat the final boss.
 
+### download & compile 2d game folder in unity to play the game
+
 ## How To Play:
 
 - Use left and right arrow key to move left and right
